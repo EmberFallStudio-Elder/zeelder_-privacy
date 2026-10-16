@@ -1,3 +1,8 @@
+---
+layout: null
+---
+<link rel="stylesheet" href="assets/style.css">
+
 # Politique de confidentialité — ZeElder_ Ecosystem
 
 **Dernière mise à jour : 17 octobre 2026**
