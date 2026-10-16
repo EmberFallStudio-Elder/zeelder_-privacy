@@ -1,0 +1,36 @@
+
+body {
+  background: #0d0d14;
+  color: #e8e8f0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  line-height: 1.7;
+  max-width: 850px;
+  margin: 50px auto;
+  padding: 0 24px;
+}
+
+h1, h2, h3 {
+  color: #b99aff;
+}
+
+h1 {
+  border-bottom: 1px solid #38304e;
+  padding-bottom: 18px;
+}
+
+a {
+  color: #ad8cff;
+}
+
+a:hover {
+  color: #d4c2ff;
+}
+
+strong {
+  color: #ffffff;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #38304e;
+}
