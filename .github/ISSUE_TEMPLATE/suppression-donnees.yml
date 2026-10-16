@@ -1,0 +1,43 @@
+
+name: "Demande relative aux données personnelles"
+description: "Demander l'accès, la rectification ou la suppression des données ZeElder_"
+title: "[Données personnelles] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci d'utiliser ce formulaire pour vos demandes concernant les données ZeElder_.
+
+        IMPORTANT : cette demande est publiée dans une issue GitHub publique.
+        Ne communiquez aucun mot de passe, jeton Twitch, adresse e-mail
+        ou autre information confidentielle.
+
+  - type: dropdown
+    id: demande
+    attributes:
+      label: "Type de demande"
+      description: "Que souhaitez-vous faire ?"
+      options:
+        - "Supprimer mes données"
+        - "Consulter mes données"
+        - "Corriger mes données"
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: "Informations complémentaires (facultatif)"
+      description: "Ne renseignez aucune information sensible."
+      placeholder: "Décrivez votre demande sans divulguer de données personnelles."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "Confirmation"
+      options:
+        - label: "Je comprends que cette demande est publique et qu'une vérification de mon compte Twitch pourra être nécessaire."
+          required: true
