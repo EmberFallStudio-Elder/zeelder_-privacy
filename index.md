@@ -41,19 +41,28 @@ Les données sont utilisées pour le fonctionnement de ZeElder_. Certaines infor
 
 L'extension s'appuie également sur Twitch et sur des services techniques nécessaires à son fonctionnement.
 
-## 7. Vos droits et suppression des données
 
-Vous pouvez demander l'accès, la rectification ou la suppression de vos données personnelles.
+## 7. Vos droits et gestion des données personnelles
 
-Pour effectuer une demande, utilisez le dépôt GitHub suivant :
+Vous pouvez demander à consulter, récupérer, rectifier ou supprimer les données personnelles associées à votre compte Twitch dans ZeElder_ Ecosystem.
 
-[Demandes relatives aux données ZeElder_](https://github.com/EmberFallStudio-Elder/ZeElder_-privacy/issues/new/choose)
+Pour effectuer une demande, utilisez notre formulaire privé :
 
-Ne publiez pas de mot de passe, de jeton Twitch, d'adresse e-mail personnelle ou d'autres informations sensibles dans une issue publique.
+### [Gérer mes données personnelles](https://tally.so/r/1WPpyM)
 
-Une vérification de la propriété du compte Twitch pourra être demandée avant toute suppression.
+Ce formulaire permet de :
 
-Si vous ne possédez pas de compte GitHub, vous pouvez demander un autre moyen de contact via le créateur de l'extension sur Twitch.
+- Consulter et récupérer vos données.
+- Signaler une erreur dans vos données.
+- Demander la suppression de vos données.
+
+Votre identité Twitch devra être vérifiée avant toute communication, modification ou suppression des données.
+
+Les informations transmises via ce formulaire ne sont pas publiées sur GitHub. Elles sont traitées par Tally pour la réception des demandes.
+
+Les coordonnées fournies servent au suivi de votre demande et à la communication privée de vos données. Elles ne sont pas destinées à être affichées publiquement.
+
+Ne communiquez jamais votre mot de passe Twitch ni vos jetons d'accès.
 
 ## 8. Modifications
 
